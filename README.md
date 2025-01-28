@@ -1,2 +1,2 @@
 # IBM-Course
-Repository created for IBM GitHub course
+Repository created for IBM GitHub course :)
